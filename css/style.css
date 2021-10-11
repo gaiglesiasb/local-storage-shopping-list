@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+.form-outline.form-white .form-control {
+  background-color: #373434;
+}
+
+i {
+  cursor: pointer;
+}
+body{
+  background: rgb(204,179,210);
+  background: -moz-radial-gradient(circle, rgba(204,179,210,1) 11%, rgba(187,87,165,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(204,179,210,1) 11%, rgba(187,87,165,1) 100%);
+  background: radial-gradient(circle, rgba(204,179,210,1) 11%, rgba(187,87,165,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ccb3d2",endColorstr="#bb57a5",GradientType=1);
+  font-family: 'Scheherazade New', serif;
+}  
